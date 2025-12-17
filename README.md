@@ -75,7 +75,7 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 
 | **Core & Systems** | **Artificial Intelligence** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,cpp,java,py,powershell,linux,bash,cmake" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,pandas,numpy,matplotlib" /> |
+| <img src="https://skillicons.dev/icons?i=c,cpp,java,py,powershell,linux,bash,cmake" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,pandas,numpy,matplotlib&perline=8" /> |
 
 | **Backend & Databases** | **Web & Design** |
 |:---:|:---:|
