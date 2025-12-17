@@ -83,7 +83,7 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 
 | **DevOps & Tools** |
 |:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,selenium,vim,nginx" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,selenium,vim,nginx" /> |
 
 </div>
 
