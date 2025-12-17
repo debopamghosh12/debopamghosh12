@@ -39,7 +39,6 @@
 </div>
 
 ---
----
 ### 📂 Pinned Projects
 
 <div align="center"> 
