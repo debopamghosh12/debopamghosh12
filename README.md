@@ -24,9 +24,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends...;Training+Machine+Learning+Models...;Crafting+Smooth+UI%2FUX...;Solving+Complex+Problems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends...;Training+Machine+Learning+Models...;Solving+Real-World+Problems." alt="Typing SVG" />
   </a>
 </div>
+
 
 ---
 
@@ -75,6 +76,12 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debopamghosh12&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
 
 ### 🗺️ Contribution Map
 
