@@ -11,12 +11,14 @@
   <a href="#-stats">
     <img src="https://img.shields.io/badge/📈_Stats-181717?style=for-the-badge&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/debopam-ghosh12">
+    <img src="https://img.shields.io/badge/🤝_LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:debopamghosh2004@gmail.com">
     <img src="https://img.shields.io/badge/📧_Contact-181717?style=for-the-badge&logoColor=white" />
   </a>
 
 </div>
-
 <br>
 
 <h1 align="center">Hi there, I'm <span style="color: #7b2cbf;">Debopam Ghosh</span> 👨‍💻</h1>
