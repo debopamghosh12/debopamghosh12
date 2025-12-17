@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends...;Training+Machine+Learning+Models...;Crafting+Smooth+UI%2FUX...;Solving+Complex+Problems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends...; Training+Machine+Learning+Models...;Crafting+Smooth+UI%2FUX...;Solving+Complex+Problems." alt="Typing SVG" />
   </a>
 </div>
 
@@ -86,5 +86,5 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-  <p>Designed by Terminator 🤖</p>
+  <p>Designed by Debopam🤖</p>
 </div>
