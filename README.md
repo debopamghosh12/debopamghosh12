@@ -31,16 +31,44 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 3D Achievements Gallery
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Intelligence
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=debopamghosh12&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="trophy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debopamghosh12&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff" height="180" alt="donut" />
+  
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=terminator12&theme=radical&font=Fira%20Code&no-bg=true&hide_border=true" height="180" alt="codeforces" />
 </div>
 
 ---
+---
+### 📂 Pinned Projects
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Tech Stack (Grid View)
+<div align="center"> 
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/debopamghosh12/AI_STOCK_PREDICTOR">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=debopamghosh12&repo=AI_STOCK_PREDICTOR&theme=radical&hide_border=true&bg_color=0d1117" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/debopamghosh12/HackathonTracker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=debopamghosh12&repo=HackathonTracker&theme=radical&hide_border=true&bg_color=0d1117" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/debopamghosh12/VectorDB_personal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=debopamghosh12&repo=VectorDB_personal&theme=radical&hide_border=true&bg_color=0d1117" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
+---
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Tech Stack (Balanced Grid)
 
 I treat my stack like a well-organized toolbox. Here is everything I use:
 
@@ -50,13 +78,13 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 |:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,powershell,linux,bash,cmake" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,pandas,numpy,matplotlib" /> |
 
-| **Backend & DB** | **Web & Design** |
+| **Backend & Databases** | **Web & Design** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,postgres,mongodb,mysql,redis,supabase,nginx" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css,figma,notion" /> |
+| <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,postgres,mongodb,mysql,redis,supabase" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css,figma,notion,postman" /> |
 
 | **DevOps & Tools** |
 |:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,postman,selenium,vim" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,selenium,vim,nginx" /> |
 
 </div>
 
@@ -75,6 +103,8 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
   <img src="https://nirzak-streak-stats.vercel.app/?user=debopamghosh12&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
+
+
 ---
 
 <div align="center">
@@ -82,6 +112,7 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 </div>
 
 <br>
+---
 
 ### 🗺️ Contribution Map
 
