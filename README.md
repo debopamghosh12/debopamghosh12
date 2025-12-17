@@ -68,7 +68,7 @@
 ---
 
 ---
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Tech Stack (Balanced Grid)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Arsenal (The Tech Stack) 
 
 I treat my stack like a well-organized toolbox. Here is everything I use:
 
