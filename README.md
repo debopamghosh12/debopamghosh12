@@ -1,22 +1,90 @@
-# 💫 About Me:
-👋 Hi, I’m @debopamghosh12<br>👀 I’m interested in |Backend and Machine Learning development || UI/UX |<br>🌱 I’m currently learning<br>💞️ I’m looking to collaborate on various hackathon and tech events<br>📫 How to reach me debopamghosh2004@gmail.com<br>😄 Pronouns: his/him/he<br>⚡ Fun fact: Coding Bugs were NOT named after an actual bug. ...
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-1f387eb67a6b.gif" width="100%" style="border-radius: 10px;" />
 
+  <br>
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/👤_About_Me-181717?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/🛠️_Tech_Stack-181717?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-stats">
+    <img src="https://img.shields.io/badge/📈_Stats-181717?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:debopamghosh2004@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Contact-181717?style=for-the-badge&logoColor=white" />
+  </a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debopam-ghosh12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debopamghosh2004@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debopamghosh12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=debopamghosh12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debopamghosh12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
+<h1 align="center">Hi there, I'm <span style="color: #7b2cbf;">Debopam Ghosh</span> 👨‍💻</h1>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=debopamghosh12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends...;Training+Machine+Learning+Models...;Crafting+Smooth+UI%2FUX...;Solving+Complex+Problems." alt="Typing SVG" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=debopamghosh12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 3D Achievements Gallery
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=debopamghosh12&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="trophy" />
+  </a>
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Tech Stack (Grid View)
+
+I treat my stack like a well-organized toolbox. Here is everything I use:
+
+<div align="center">
+
+| **Core & Systems** | **Artificial Intelligence** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=c,cpp,java,py,powershell,linux,bash,cmake" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,pandas,numpy,matplotlib" /> |
+
+| **Backend & DB** | **Web & Design** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,postgres,mongodb,mysql,redis,supabase,nginx" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css,figma,notion" /> |
+
+| **DevOps & Tools** |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,postman,selenium,vim" /> |
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/LpW8G2e5g38Fk71gqg/giphy.gif" width="30"> Analytics Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debopamghosh12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debopamghosh12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=debopamghosh12&theme=radical&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+### 🗺️ Contribution Map
+
+<div align="center">
+  <img src="https://github.com/debopamghosh12/debopamghosh12/blob/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <p>Designed by Terminator 🤖</p>
+</div>
