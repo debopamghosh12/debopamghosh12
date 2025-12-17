@@ -1,5 +1,4 @@
 <div align="center">
-  
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-1f387eb67a6b.gif" width="100%" style="border-radius: 10px;" />
 
   <br>
@@ -27,7 +26,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends...;Training+Machine+Learning+Models...;Solving+Real-World+Problems." alt="Typing SVG" />
   </a>
 </div>
-
 
 ---
 
@@ -78,7 +76,7 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debopamghosh12&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debopamghosh12&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
@@ -86,7 +84,7 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 ### 🗺️ Contribution Map
 
 <div align="center">
-  <img src="https://github.com/debopamghosh12/debopamghosh12/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/debopamghosh12/debopamghosh12/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <br>
