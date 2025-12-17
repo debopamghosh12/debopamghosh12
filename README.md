@@ -66,7 +66,6 @@
 </div>
 ---
 
----
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Arsenal (The Tech Stack) 
 
 I treat my stack like a well-organized toolbox. Here is everything I use:
@@ -101,8 +100,6 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=debopamghosh12&theme=radical&hide_border=true&background=0d1117" />
 </div>
-
-
 
 ---
 
