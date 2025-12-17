@@ -107,7 +107,6 @@ I treat my stack like a well-organized toolbox. Here is everything I use:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debopamghosh12&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
 ---
 
 ### 🗺️ Contribution Map
