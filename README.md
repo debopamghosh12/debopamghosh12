@@ -65,6 +65,12 @@
   </table>
 </div>
 
+### 🚀 Project Highlights
+
+- **📈 AI_STOCK_PREDICTOR:** ML pipeline for stock forecasting using Time-Series Analysis. Implements predictive algorithms to analyze market volatility and minimize RMSE on historical data.
+- **💻 HackathonTracker:** Centralized dashboard for competitive programming logistics. Tracks hackathon lifecycles, registration deadlines, and team workflows using a structured frontend architecture.
+- **🧠 VectorDB_personal:** High-performance Vector Database built from scratch. Features custom indexing and Cosine Similarity algorithms to demonstrate semantic search and RAG fundamentals.
+
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Arsenal (The Tech Stack) 
